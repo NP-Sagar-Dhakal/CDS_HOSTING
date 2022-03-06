@@ -139,13 +139,13 @@ img {
   background-color: #fff;
 }
 
-.section {
+.sections {
   position: relative;
   padding: 8.125rem 0;
 }
 
 @media (min-width: 768px) {
-  .section {
+  .sections {
     padding: 7.5rem 0;
   }
 }
@@ -1910,7 +1910,7 @@ CONTACT PAGE
   .web-service-block {
     margin-bottom: 30px;
   }
-  .section {
+  .sections {
     padding: 60px 0px;
   }
   .section-bottom {
